@@ -40,7 +40,7 @@ h1 {
 
 body {
     font-size: 18px
-    background-color: black;
+    background-color: ##000000;
 }
 
 .button input[type="submit"] {
@@ -54,6 +54,7 @@ body {
     color: black;
     border:2px solid ##000000;
 }
+
 
 
 
